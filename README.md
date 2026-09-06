@@ -1,11 +1,11 @@
-# Cian Healy
+# Christian Healy
 
 Computer Science student interested in **software development, data, cybersecurity, and AI**.
 
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,python,html" />
 </p>
 
 ### GitHub
