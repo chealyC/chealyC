@@ -1,6 +1,6 @@
 # Christian Healy
 
-Computer Science student interested in **software development, data, machine learning and AI**.
+MsC Computer Science student interested in **software development, data, machine learning and AI**.
 
 ### Languages
 
