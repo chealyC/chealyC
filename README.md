@@ -1,6 +1,6 @@
 # Christian Healy
 
-MsC Computer Science student interested in **software development, data, machine learning and AI**.
+MSc Computer Science student with an interest in **software development, data science, machine learning, and artificial intelligence**.
 
 ### Languages
 
@@ -17,4 +17,4 @@ MsC Computer Science student interested in **software development, data, machine
 
 ### Tools
 
-`Git` · `GitHub` · `VS Code` · `Linux` · `Matplotlib` · `NumPy` · `SQL`
+`Git` · `GitHub` · `VS Code` · `Linux` · `Matplotlib` · `NumPy` 
