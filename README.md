@@ -1,8 +1,6 @@
 # Christian Healy
 
-  MSc Computer Science student at the <b>University of Birmingham</b>, 
-  interested in <b>software development, data science, machine learning, and AI</b>.
-
+MSc Computer Science student at the **University of Birmingham**, exploring **software development, data science, machine learning, and artificial intelligence**.
 
 ### Languages
 
