@@ -10,10 +10,11 @@ MSc Computer Science student with an interest in **software development, data sc
 
 ### Currently Learning
 
-* Data Structures & Algorithms
-* Databases
+* Software
+* Data Structures, Algorithms & Databases
 * Object-Oriented Programming
 * AI/Machine Learning
+* Computer Systems
 
 ### Tools
 
