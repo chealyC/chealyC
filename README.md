@@ -18,4 +18,4 @@ MSc Computer Science student at the **University of Birmingham**, exploring **so
 
 ### Tools
 
-`Git` · `GitHub` · `VS Code` · `Linux` · `Matplotlib` · `NumPy` 
+`Git` · `GitHub` · `VS Code` · `Linux` · `Matplotlib` · `NumPy` · `FastAPI` · `SQLite` 
