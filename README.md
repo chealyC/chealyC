@@ -10,7 +10,6 @@ MSc Computer Science student at the **University of Birmingham**, exploring **so
 
 ### Currently Learning
 
-* Software
 * Data Structures, Algorithms & Databases
 * Procedural/Object-Oriented Programming
 * Dynamic Programming
