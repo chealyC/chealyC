@@ -5,7 +5,7 @@ MSc Computer Science student at the **University of Birmingham**, exploring **so
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python" />
+  <img src="https://skillicons.dev/icons?i=c,python,javascript" />
 </p>
 
 ### Currently Learning
