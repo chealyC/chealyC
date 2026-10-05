@@ -8,6 +8,8 @@ MSc Computer Science student at the **University of Birmingham**, exploring **so
   <img src="https://skillicons.dev/icons?i=c,python,java,html" />
 </p>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chealyC&layout=compact)
+
 ### Currently Learning
 
 * Data Structures, Algorithms & Databases
