@@ -14,7 +14,7 @@ MSc Computer Science student at the **University of Birmingham**, exploring **so
 * Procedural/Object-Oriented Programming
 * Dynamic Programming
 * AI/Machine Learning
-* Computer Systems
+* Computer Systems and Architecture
 * Cyber Security
 
 ### Tools
