@@ -19,4 +19,4 @@ MSc Computer Science student at the **University of Birmingham**, exploring **so
 
 ### Tools
 
-Python · FastAPI · Groq LLM API · SQLite · OCR · PDF Processing · HTML/CSS · Git
+FastAPI · REST APIs · SQLite · Groq LLM API · OCR (Tesseract) · ReportLab · React · Leaflet.js · Git/GitHub
