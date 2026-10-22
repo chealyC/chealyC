@@ -7,7 +7,7 @@ I enjoy building practical software solutions, from AI-powered automation tools 
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
 </p>
 
 ### Frameworks & APIs
