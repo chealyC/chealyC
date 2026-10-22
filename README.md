@@ -20,8 +20,10 @@ MSc Computer Science student at the **University of Birmingham**, exploring **so
 ### Frameworks & APIs
 FastAPI · React · REST APIs · Groq LLM API · Leaflet.js
 
+
 ### Databases & Processing
 SQLite · Tesseract OCR · ReportLab · Matplotlib
+
 
 ### Development & Deployment
 Git · GitHub · GitHub Pages · Render
