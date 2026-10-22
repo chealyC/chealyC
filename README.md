@@ -17,6 +17,11 @@ MSc Computer Science student at the **University of Birmingham**, exploring **so
 * Computer Systems and Architecture
 * Cyber Security
 
-### Tools
+### Frameworks & APIs
+FastAPI · React · REST APIs · Groq LLM API · Leaflet.js
 
-FastAPI · REST APIs · SQLite · Groq LLM API · React · Leaflet.js · Git/GitHub
+### Databases & Processing
+SQLite · Tesseract OCR · ReportLab · Matplotlib
+
+### Development & Deployment
+Git · GitHub · GitHub Pages · Render
