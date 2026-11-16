@@ -16,7 +16,7 @@ AIを活用した業務自動化ツールやWebアプリケーションなど、
 
 ### Languages / プログラミング言語
 
-![Languages](https://skillicons.dev/icons?i=python,c,html,css,js)
+![Languages](https://skillicons.dev/icons?i=python,c,html,css)
 
 ### Frameworks & APIs / フレームワーク・API
 
